@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AnalogClockView">
+    <Position X="1.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAKAAAIAEAAAACAAAAAYAAAAwAAAAAQAAA=</HashCode>
+      <FileName>AnalogClockView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Circle" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAACAAAgAYAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Circle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClockApp" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAACAAAAAAwAgQAAIABRBgAAQAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>ClockApp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClockModel">
+    <Position X="9" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABARAkAAAAAAAAAAAAQAAAAAAAAwAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClockModel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DigitalClockView" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAACAAAAAAAAAAgAAAAAQAAA=</HashCode>
+      <FileName>DigitalClockView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Font" Collapsed="true">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAQAAAAAAAAAAIIEAgAAASAAE=</HashCode>
+      <FileName>Font.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Line" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAMAAAEACAAAAAAAAAAAAAAAgBAAA=</HashCode>
+      <FileName>Line.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SDLApp" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEAAgAAAAAAAIBAQAQEACAQAAAAAAIgAAAAAQAQAAA=</HashCode>
+      <FileName>SDLApp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfaceWrapper" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAACAAAAAAAAAAAQAAAAAAAAAAgAAAAACAAAAA=</HashCode>
+      <FileName>SurfaceWrapper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextElement" Collapsed="true">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAKABAAgAAAAAAAACAAAAAAAAAAgACAAgAAAA=</HashCode>
+      <FileName>TextElement.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextureWrapper" Collapsed="true">
+    <Position X="8.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAQAAAAABAAQAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextureWrapper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Time" Collapsed="true">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAJAAAABAAAAAAEBAAAAAAACAAAAAAAAgAAIAAQA=</HashCode>
+      <FileName>Time.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
